@@ -1,2 +1,2 @@
-FROM reg.docker.alibaba-inc.com/pipcook/pipcook:1.0.0
+FROM pipcook/pipcook:version-0.4
 USER root
